@@ -1,4 +1,4 @@
-# Yet Another Voltex Minicon (WIP)
+# FGVX Mini (WIP)
 ![Image of the controller](https://github.com/wrigglebug/Yet-Another-SDVX-Minicon/blob/main/project.jpg?raw=true)
 - Uses an rp2040 MCU and pico-game-controller
 - 3D printed components
